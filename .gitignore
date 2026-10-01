@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+*.log
+.DS_Store
+
+# Never commit local configuration or credentials
+.env*
+*.mobileprovision
+*.cer
+*.p12
+*.p8
+*.pem
+*.key
+
+# Xcode user and signing state
+ios/Pods/
+ios/build/
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
